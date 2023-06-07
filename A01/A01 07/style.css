@@ -1,0 +1,23 @@
+.Blue{
+    color: blue;
+}
+
+#border{
+    border-style: solid;
+}
+b{
+    color: aqua
+}
+.gray{
+background-color: gray;
+}
+#purple{
+    color: blueviolet;
+}
+
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
