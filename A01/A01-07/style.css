@@ -1,0 +1,22 @@
+#Red{
+    color: #EC4145;
+   }
+   
+   #Blue {
+       color:#2531da;
+   }
+   
+   
+   #Green{
+       color: #007C00;
+   }
+
+   body{
+       background-color:#B0E0E6;
+   }
+
+   #inset{
+    border-style: inset;
+    width: 350px;
+   
+}

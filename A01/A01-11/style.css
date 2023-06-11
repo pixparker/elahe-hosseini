@@ -1,0 +1,22 @@
+
+
+
+
+div{
+ 
+  max-width: 150px;
+
+}
+
+
+  th, td {
+    border: 1px solid black;
+    border-radius: 1px;
+  }
+  
+  #center{
+    text-align: center;
+  }
+ 
+
+

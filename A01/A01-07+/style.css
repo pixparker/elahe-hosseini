@@ -1,0 +1,23 @@
+.Blue{
+    color:#0000F8;
+}
+
+#border{
+    border-style: solid;
+}
+b{
+    color: #2AFFFF;
+}
+.gray{
+background-color:#808080;
+}
+#purple{
+    color:#61238E;
+}
+
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
