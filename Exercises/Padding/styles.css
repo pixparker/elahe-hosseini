@@ -1,0 +1,23 @@
+h1,p{
+    color: white;
+}
+
+
+h1{
+    background-color: red;
+    /* padding-top: 50px;
+    padding-left: 60px;
+    padding-bottom: 70px; */
+    /* padding-right:20px; */
+    padding: 40px;
+}
+p{
+    background-color: green;
+    /* padding: 20px 30px; */
+    padding: 20px 50px 20px 50px;
+}
+
+ul{
+
+    padding:50px;
+}
