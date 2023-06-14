@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    width: 20px;
+    height: 150px;
+}
+
+a {
+    background: rgb(102, 193, 235);
+    color: white;
+    margin: 30px;
+    padding: 1.2rem 1.5rem;
+    text-decoration: none;
+    border: solid 10px black;
+
+    /* outline-style: solid;
+    outline-color: green;
+    outline-width: 5px; */
+    outline: solid 5px rgb(128, 0, 107);
+    outline-offset: 10px;
+
+    border-radius: 10px;
+}
+
