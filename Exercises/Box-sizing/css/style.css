@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+div{
+        background-color: rgb(8, 196, 196);
+        color: white;
+        padding: 20px;
+        height: 100px;
+        width: 200px;
+        border: solid 10px black;
+        box-sizing: border-box;
+}
+
+
+
