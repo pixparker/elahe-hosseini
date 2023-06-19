@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box; 
+}
+
+div {
+    background: rgb(77, 80, 236);
+    color: rgb(237, 253, 10); 
+    
+     margin-bottom: 20px;
+}
+
+a {
+    background: rgb(241, 18, 111);
+    color: white;
+    margin-top: 30px;
+   display: inline-block;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+ul li {
+    list-style-type: none;
+
+    margin-top: 50px;
+    display: inline; 
+}
+
+ul li a {
+    text-decoration: none; 
+ background: black;
+    color: rgb(255, 255, 255);
+   padding: 50px;
+    margin-top: 20px;
+    display: inline-block;
+} 
