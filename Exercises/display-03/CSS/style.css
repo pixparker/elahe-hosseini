@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+div {
+    background: rgb(23, 3, 114);
+    color: white;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.two {
+    /* display: none; */
+    opacity: 0.3;
+    /* visibility: hidden; */
+}
