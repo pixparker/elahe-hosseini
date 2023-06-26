@@ -1,0 +1,45 @@
+.header{
+    height: 100px;
+    background-color: #F1F1F1 ;
+    text-align: center;
+    /* display: inline; */
+    margin-top: auto;
+    padding: 25px;
+}
+
+
+.left{
+    width: 30%;
+    height:200px;
+ 
+    background-color: #AAAAAA;
+    float: left;
+}
+.mid{
+    width: 70%;
+    height:200px;
+
+
+    background-color:#BBBBBB;
+    float: left;
+}
+
+.right{
+    width:30%;
+    height:200px;
+   
+    background-color: #CCCCCC;
+    float: right;
+}
+.footer{
+    height: 300px;
+    background-color:#F1F1F1 ;
+    text-align: center;
+
+  
+}
+
+
+
+
+
