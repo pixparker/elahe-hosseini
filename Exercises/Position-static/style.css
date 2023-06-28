@@ -1,0 +1,50 @@
+
+div{
+    height: 100px;
+   
+    margin: 5px;
+
+
+
+}
+
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color:green;
+}
+
+.box3{
+    background-color: blue;
+}
+
+.box4{
+    height: 150px;
+
+    background-color: violet;
+}
+
+.box5{
+    background-color: yellow;
+  
+}
+
+
+
+.one{
+
+    background-color: aquamarine;
+}
+
+.two{
+    background-color: aqua;
+}
+
+.three{
+    background-color: rgb(3, 190, 190);
+}
+.four{
+    background-color: rgb(4, 133, 150);
+}

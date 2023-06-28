@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.menu{
+    height: 80px;
+    background-color: rgb(125, 246, 255);
+    position: sticky;
+    top: 0;
+    text-align: center;
+   
+
+
+
+}
+.header{
+    margin-top: 50px;
+    height: 200px;
+    background-color: rgb(175, 173, 173);
+    text-align: center;
+}

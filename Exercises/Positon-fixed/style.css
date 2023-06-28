@@ -1,0 +1,17 @@
+.fixed{
+
+    height: 100px;
+    width: 100%;
+    color: blueviolet;
+    text-align: center;
+     padding-top: 10px;
+    background-color: rgb(163, 231, 248);
+  position: fixed;
+}
+
+.color{
+    
+background-color: rgb(255, 167, 221);
+color: rgb(18, 2, 77);
+
+}
