@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+
+
+body{
+    
+    background-image: url(../imge/25563.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.box{
+    
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.a{
+      margin: 450px;
+    text-align: center;
+    margin-top: 80px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    border: solid;
+    text-decoration: none;
+    color: black ;
+    background-color: white;
+
+}
+
