@@ -1,0 +1,50 @@
+*{
+     margin: 0px; 
+}
+body{
+    background-image: url(../images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.PIC{
+    
+    width: 280px;
+    height:150px;
+    margin: 100px 40%  0px auto;
+    border-radius: 15px 15px 0px 0px ;
+}
+
+.MORE{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 280px;
+    border-radius: 0px 0px 15px 15px;
+    text-align: center;
+    margin: 0px 40% 20px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.TEXT{
+
+    margin: 0px 40% 0px auto;
+    width: 280px;
+    height:80px;
+    backdrop-filter: blur(10px);
+    text-align: center;
+  
+}
+
+img{
+    width: 280px;
+    height:150px;
+    border-radius: 15px 15px 0px 0px;
+}
+p{
+    font-style: italic;
+    color: #5E2B1F;
+    
+}
+
