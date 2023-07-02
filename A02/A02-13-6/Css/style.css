@@ -1,0 +1,49 @@
+
+*{
+    margin: 0px;
+}
+body{
+background-image: linear-gradient(#F6FCFC,#08ECF4);  
+
+background-attachment: fixed;
+
+
+}
+
+.back-ocean{
+        background-image: url(../image/back-ocean.jpg);
+        margin: auto; 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 100%;
+        width:90%;
+        background-position: center;
+        background-size: 60%;
+}
+
+
+.box{
+
+       margin: auto;
+   
+       height: 100%;
+       width:30%;
+    
+       border: white solid 2px ;
+       backdrop-filter: blur(10px);
+}
+img{
+    margin: auto;
+    display: block;
+    height: 200px;
+    width: 95%;
+   padding: 50px 0px 20px 0px;
+}
+.white{
+
+    text-align: center;
+    color: white;
+}
+h1{
+    padding: 10px;
+}
